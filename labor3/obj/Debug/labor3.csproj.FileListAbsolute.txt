@@ -1,0 +1,6 @@
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\bin\Debug\labor3.exe.config
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\bin\Debug\labor3.exe
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\bin\Debug\labor3.pdb
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\obj\Debug\labor3.csprojResolveAssemblyReference.cache
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\obj\Debug\labor3.exe
+c:\users\hallgató\documents\visual studio 2015\Projects\labor3\labor3\obj\Debug\labor3.pdb
