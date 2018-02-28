@@ -25,7 +25,7 @@ namespace labor3
 
         public void Verseny()
         {
-            if(Uzemanyag>0)
+            if (Uzemanyag > 0)
             {
                 Uzemanyag -= 10;
 
@@ -42,17 +42,18 @@ namespace labor3
             Console.WriteLine("Aktuális mennyiség: " + mennyiseg);
         }
     }
-    class esemenykezeles_interface { 
-    
+    class esemenykezeles_interface
+    {
+
         static void Main(string[] args)
         {
-        IUzemanyagHelyzet jelzo = new Jelzo();
-        Auto auto = new Auto(40, jelzo);
+            IUzemanyagHelyzet jelzo = new Jelzo();
+            Auto auto = new Auto(40, jelzo);
 
             auto.Verseny();
 
             Console.ReadLine();
 
-    }
+        }
     }
 }

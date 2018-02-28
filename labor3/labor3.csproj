@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="esemenykezeles_interface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sajatargs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
